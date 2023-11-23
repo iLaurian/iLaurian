@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/laurian_iacob" target="blank"><img src="https://img.shields.io/twitter/follow/laurian_iacob?logo=twitter&style=for-the-badge" alt="laurian_iacob" /></a> </p>
 
-- 🌱 I’m currently learning **Golang for backend web development**
+- 🌱 I’m currently learning **Bash scripting**
 
 - 💬 Ask me about **CyberSecurity, Networking & Web Development**
 
